@@ -3,6 +3,7 @@
 **Analysis window: 2011–2019.** 2020 is in the data model but excluded from every trend visual; see [Why 2020 is excluded](#why-2020-is-excluded).
 
 > Between 2011 and 2019, US hospitals got measurably safer and measurably more violent at the same time.
+
 ![Page 1 — Is healthcare pulling away?](images/page-1.png)
 ![Page 2 — Which settings, and how far apart?](images/page-2.png)
 ---
