@@ -1,0 +1,22 @@
+{
+  "name": "BLS Violence Dashboard",
+  "dataColors": [
+    "#B03A2E",
+    "#2C7A9E",
+    "#666666",
+    "#7FB3C8",
+    "#922B21",
+    "#1F6F8B",
+    "#999999",
+    "#D9A79E"
+  ],
+  "background": "#FFFFFF",
+  "foreground": "#333333",
+  "tableAccent": "#B03A2E",
+  "good": "#2C7A9E",
+  "neutral": "#666666",
+  "bad": "#B03A2E",
+  "maximum": "#B03A2E",
+  "center": "#E8C4BE",
+  "minimum": "#FFFFFF"
+}
